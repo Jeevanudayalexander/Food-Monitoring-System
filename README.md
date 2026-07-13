@@ -75,4 +75,5 @@ In hotel kitchens and F&B storage, stock is typically tracked using handwritten 
 - Ragul S J
 
 Department of Robotics and Automation Engineering, PSG College of Technology, Coimbatore
+
 Industrial Mentor: Mr. Sojesh Somapalan
