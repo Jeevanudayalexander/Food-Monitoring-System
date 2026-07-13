@@ -2,7 +2,7 @@
 
 A Raspberry Pi-based smart interface that automates First-In-First-Out (FIFO) stock control in food storage units — built to replace manual, sticker-based inventory tracking in hotel kitchens with real-time, QR-driven monitoring.
 
-> Developed as part of a project internship at Hotel Mangala International, Coimbatore, and presented as a final-year review project at PSG College of Technology.
+> Developed as part of a project internship at Hotel Mangala International, Coimbatore, and presented as a pre-final year review project at PSG College of Technology.
 
 ## Problem Statement
 
